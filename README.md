@@ -13,7 +13,3 @@ Each projects is about parallelizing a serial C algorithm (which is also to be i
 * **Project 2:** K Nearest Neighbours (KNN) - OpenMPI, Hybrid 
 * **Project 3:** Meanshift - CUDA, Hybrid 
 * **Project 4:** Non Local Means - CUDA, Hybrid 
-
-## Reports and Evaluation Method 
-In each project there is a pdf report (in Greek) which describes the whole approach. 
-Evaluation is based on performance (execution time, memory consumption) and the proof of correctness of parallel implementation.  
